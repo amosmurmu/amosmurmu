@@ -27,7 +27,7 @@ Linux Expertise: Arch Linux, Debian, Shell Scripting, NeoVim/Vim
 
 ## 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amosmurmu&show_icons=true&theme=gruvbox) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amosmurmu&layout=compact&theme=gruvbox&langs_count=8) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amosmurmu&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amosmurmu&layout=compact&theme=dracula&langs_count=8) |
 |---|---|
 
 

@@ -1,32 +1,38 @@
 # Amos Murmu
 
-[![Profile Views](https://komarev.com/ghpvc/?username=amosmurmu&color=brightgreen)](https://github.com/amosmurmu)
-
-
 ## Introduction
+I'm Amos Murmu, a backend developer building scalable and efficient web applications. I specialize in backend technologies and have experience in full-stack development.
 
-Hello, I'm Amos Murmu, an Android developer with a passion for crafting robust and user-friendly applications. I thrive in the dynamic world of mobile development, where innovation meets functionality.
+## Skills
+Backend Development: Node.js, Express, PostgreSQL, MySQL, MongoDB, REST APIs
 
-## Languages
+Frontend Development: React, TailwindCSS, DaisyUI
 
-![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)
-![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
+Programming Languages: JavaScript, C, Java, Bash, HTML, CSS, SQL
+
+Linux Expertise: Arch Linux, Debian, Shell Scripting, NeoVim/Vim
 
 
-## Tech Stacks
+<h2>🛠 Tech Stack</h2>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</p>
 
-- Android SDK
-- MVVM
-- Kotlin
-- Java
-- Git
-- Docker
 
-![amosmurmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amosmurmu&show_icons=true&theme=gruvbox) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amosmurmu&layout=compact&theme=gruvbox&langs_count=15)](https://github.com/amosmurmu/github-readme-stats)
-----|----
 
-## Connect with Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amosmurmu-blue)](https://linkedin.com/in/amos-murmu002)
-[![Twitter](https://img.shields.io/badge/Twitter-@amosmurmu-blue)](https://twitter.com/amosmurmu)
-[![GitHub](https://img.shields.io/badge/GitHub-amosmurmu-green)](https://github.com/amosmurmu)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amosmurmu&show_icons=true&theme=gruvbox) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amosmurmu&layout=compact&theme=gruvbox&langs_count=8) |
+|---|---|
+
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amosmurmu-blue?style=flat-square)](https://linkedin.com/in/amosmurmu002)  
+[![GitHub](https://img.shields.io/badge/GitHub-amosmurmu-green?style=flat-square)](https://github.com/amosmurmu)  
+[![Email](https://img.shields.io/badge/Email-amosmurmu002@gmail.com-red?style=flat-square)](mailto:amosmurmu002@gmail.com)  

@@ -1,6 +1,5 @@
 # Amos Murmu
 
-## Introduction
 I'm Amos Murmu, a backend developer building scalable and efficient web applications. I specialize in backend technologies and have experience in full-stack development.
 
 ## Skills
